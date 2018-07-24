@@ -8,11 +8,11 @@ This series of notebooks is intended to provide a Pythonic view of looking at Li
 
 1. Overview
 2. Scalars
-3. Vectors
-    3.1 Python List vs Numpy Array
-    3.2 Vector Operations
-4. Matrices
-    4.1 arrary vs matrix in Numpy
-    4.2 Matrix Operations
+3. Vectors <br>
+    3.1 Python List vs Numpy Array<br>
+    3.2 Vector Operations<br>
+4. Matrices<br>
+    4.1 arrary vs matrix in Numpy<br>
+    4.2 Matrix Operations<br>
 
 Please reach out to akarsh.verma@live.in for any queries/assistance
